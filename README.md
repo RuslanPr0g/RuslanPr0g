@@ -19,6 +19,8 @@
 ### Languages and Tools:
 
 .NET
+<img align="left" alt="CSharp" width="26px" src="https://user-images.githubusercontent.com/64675654/103455456-0f762980-4cf6-11eb-827a-84756f57c296.png" />
+<img align="left" alt="dotNet" width="26px" src="https://user-images.githubusercontent.com/64675654/103455651-7c3df380-4cf7-11eb-8b60-6664758a5433.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
