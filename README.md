@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m literally learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects, be in a good shape, and everything!
-- ⚡ Fun fact: typeof null is object
+- 🥅 2021 Goals: Learn the 5 at least 1.5 hours per day, learn .NET and front end stuff, and everything!
+- ⚡ Fun fact: Most Portable Executable (PE) files compiled and assembled from C#.
 
 ### Connect with me:
 
