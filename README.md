@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m literally learning everything 🤣
-- 🥅 2021 Goals: Learn the 5 at least 1.5 hours per day, learn .NET and front end stuff, and everything!
+- 🥅 2021 Goals: Become Middle .NET Developer (in 19 y.o)
 - ⚡ Fun fact: You are a human with a probability of 99%.
 
 ### Connect with me:
