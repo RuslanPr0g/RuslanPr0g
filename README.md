@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m literally learning everything 🤣
-- 🥅 2022 Goals: Become Middle .NET Developer
+- 🥅 2022 Goals: Become Middle .NET Developer and achieve C1 English level
 - ⚡ Fun fact: You are a human with a probability of 99%.
 
 ### Connect with me:
