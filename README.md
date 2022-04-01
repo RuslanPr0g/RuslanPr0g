@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m literally learning everything 🤣
-- 🥅 2022 Goals: Become Middle .NET Developer and achieve C1 English level as well as play the electric guitar
+- 🥅 2022 Goals: Achieve C1 English level as well as play the electric guitar
 - ⚡ Fun fact: You are a human with a probability of 99%.
 
 ### Connect with me:
