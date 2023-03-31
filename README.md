@@ -1,6 +1,6 @@
 ### Hello, I'm Ruslan - aka Ruslan 👋
 
-## I'm a Student, and full-stack developer!
+## I'm a full-stack developer!
 
 - 🔭 I’m currently working on a secret project!
 - 🌱 I’m literally learning everything 🤣
