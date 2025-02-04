@@ -1,7 +1,7 @@
 ### Some of my websites:
-## 🎮 Play Games (Because who needs productivity?)
+### 🎮 Play Games (Because who needs productivity?)
 [Infinity Fun](https://ruslanpr0g.github.io/infinity-fun/)
-## 💻 Track Your Leetcode Struggles (Spoiler: You won't Need It)
+### 💻 Track Your Leetcode Struggles (Spoiler: You won't Need It)
 [Algo Graph](https://ruslanpr0g.github.io/algo-graph/)
 
 ### 🤷‍♂️ Here's How Bad I Am:  
