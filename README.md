@@ -1,4 +1,4 @@
-### Some of my websites:
+## Some of my websites:
 ### 🎮 Play Games (Because who needs productivity?)
 [Infinity Fun](https://ruslanpr0g.github.io/infinity-fun/)
 ### 💻 Track Your Leetcode Struggles (Spoiler: You won't Need It)
