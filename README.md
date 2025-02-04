@@ -4,5 +4,5 @@
 ### 💻 Track Your Leetcode Struggles (Spoiler: You won't Need It)
 [Algo Graph](https://ruslanpr0g.github.io/algo-graph/)
 
-### 🤷‍♂️ Here's How Bad I Am:  
+## Here's How Bad I Am:  
 <img align="left" alt="Ruslan Github Stats" src="https://github-readme-stats.vercel.app/api?username=RuslanPr0g&show_icons=true&hide_border=true" />
