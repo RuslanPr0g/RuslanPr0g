@@ -9,6 +9,7 @@
 [![FileFlower.Core](https://img.shields.io/nuget/v/FileFlower.Core)](https://www.nuget.org/packages/FileFlower.Core)  
 [![FileFlower.DependencyInjection](https://img.shields.io/nuget/v/FileFlower.DependencyInjection)](https://www.nuget.org/packages/FileFlower.DependencyInjection)
 
+### 🔥 Seamlessly build DDD solutions in your .NET application!
 [![StackNucleus.DDD.Domain](https://img.shields.io/nuget/v/StackNucleus.DDD.Domain)](https://www.nuget.org/packages/StackNucleus.DDD.Domain)
 
 ## Here's How Bad I Am:  
