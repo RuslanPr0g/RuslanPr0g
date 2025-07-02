@@ -6,7 +6,7 @@
 
 ## Some of my nugets:
 ### 🧷 Seamlessly access file changes through a smooth and intuitive API!
-[![FileFlower.Core](https://img.shields.io/nuget/v/FileFlower.Core)](https://www.nuget.org/packages/FileFlower.Core)  
+[![FileFlower.Core](https://img.shields.io/nuget/v/FileFlower.Core)](https://www.nuget.org/packages/FileFlower.Core)
 [![FileFlower.DependencyInjection](https://img.shields.io/nuget/v/FileFlower.DependencyInjection)](https://www.nuget.org/packages/FileFlower.DependencyInjection)
 
 ### 🔥 Seamlessly build DDD solutions in your .NET application!
