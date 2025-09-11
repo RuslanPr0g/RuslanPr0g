@@ -16,6 +16,10 @@
 [![StackNucleus.DDD.Persistence](https://img.shields.io/nuget/v/StackNucleus.DDD.Persistence)](https://www.nuget.org/packages/StackNucleus.DDD.Persistence)
 [![StackNucleus.DDD.Persistence.EF.Postgres](https://img.shields.io/nuget/v/StackNucleus.DDD.Persistence.EF.Postgres)](https://www.nuget.org/packages/StackNucleus.DDD.Persistence.EF.Postgres)
 [![StackNucleus.DDD.Api.Rest](https://img.shields.io/nuget/v/StackNucleus.DDD.Api.Rest)](https://www.nuget.org/packages/StackNucleus.DDD.Api.Rest)
+[![StackNucleus.DDD.Outbox](https://img.shields.io/nuget/v/StackNucleus.DDD.Outbox)](https://www.nuget.org/packages/StackNucleus.DDD.Outbox)
+[![StackNucleus.DDD.Application](https://img.shields.io/nuget/v/StackNucleus.DDD.Application)](https://www.nuget.org/packages/StackNucleus.DDD.Application)
+[![StackNucleus.DDD.Images](https://img.shields.io/nuget/v/StackNucleus.DDD.Images)](https://www.nuget.org/packages/StackNucleus.DDD.Images)
+[![StackNucleus.DDD.Jobs.Quartz](https://img.shields.io/nuget/v/StackNucleus.DDD.Jobs.Quartz)](https://www.nuget.org/packages/StackNucleus.DDD.Jobs.Quartz)
 
 ## Here's How Bad I Am:  
 <img align="left" alt="Ruslan Github Stats" src="https://github-readme-stats.vercel.app/api?username=RuslanPr0g&show_icons=true&hide_border=true" />
